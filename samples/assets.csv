@@ -1,0 +1,12 @@
+host;ip;nom;criticite;exposition;environnement
+srv-paiement-01;10.20.1.10;srv-paiement-01;critique;internet;prod
+srv-web-vitrine;10.20.2.20;srv-web-vitrine;haute;internet;prod
+srv-ad-01;10.20.3.10;srv-ad-01;critique;interne;prod
+srv-fichiers-02;10.20.3.25;srv-fichiers-02;haute;interne;prod
+srv-sauvegarde-01;10.20.3.40;srv-sauvegarde-01;haute;interne;prod
+srv-rh-01;10.20.4.12;srv-rh-01;haute;interne;prod
+wks-compta-07;10.20.5.37;wks-compta-07;moyenne;interne;prod
+wks-support-14;10.20.5.52;wks-support-14;moyenne;interne;prod
+srv-test-app-03;10.30.1.15;srv-test-app-03;basse;interne;test
+srv-recette-db-01;10.30.1.30;srv-recette-db-01;moyenne;interne;recette
+imprimante-rdc;10.20.9.5;imprimante-rdc;basse;interne;prod

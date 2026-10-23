@@ -81,7 +81,9 @@ P2     73.0  srv-test-app-03        10.0 oui  Apache Log4j < 2.15.0 Remote Code 
 ```
 
 La même faille Log4Shell (CVSS 10) est P1 sur le serveur web exposé et P2 sur la machine de test. Un « critique » CVSS 10 sur une machine de test (système d'exploitation obsolète) tombe en P3. Rapport complet : [`examples/rapport-exemple.md`](examples/rapport-exemple.md).
+## Capture
 
+![Résultat dans le terminal](images/terminal.png)
 ## Données d'exemple : à lire
 
 - Tout est **fictif** : banque, machines, adresses.
